@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "page/index/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "测试图片自适应"
+  }
+}
